@@ -13,7 +13,8 @@ A desktop application for organizing music albums, songs, and artists — built 
 
 ## Screenshots
 
-> *(Add screenshots here after first run)*
+> <img width="2240" height="1504" alt="MainWindow" src="https://github.com/user-attachments/assets/3836033e-23ef-490b-b0f5-a397c59c314c" />
+
 
 ---
 
