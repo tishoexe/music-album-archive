@@ -87,7 +87,7 @@ active_year        └── artist_id (ref)    └─── album_id  (ref)
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/music-album-archive.git
+git clone https://github.com/tishoexe/music-album-archive.git
 cd music-album-archive
 
 # Create virtual environment and install dependencies
